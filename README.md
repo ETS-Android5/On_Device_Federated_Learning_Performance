@@ -90,3 +90,4 @@ The training time of each round is recorded in client side and the output form i
 Memory usage is observed on Android Studio embedded tools [Profiler](https://developer.android.com/studio/profile).This tool can track real-time CPU, memory, network and power usage. 
 
 ### Power Consumption
+Power consumption is measured by [PowerSpy device](https://www.alciom.com/en/our-trades/products/powerspy2/).
